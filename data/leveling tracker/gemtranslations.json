@@ -1,0 +1,3167 @@
+﻿{
+  "abberath's fury": {
+    "name": "艾貝拉斯之怒"
+  },
+  "absolution": {
+    "name": "赦免"
+  },
+  "abyssal cry": {
+    "name": "深淵戰吼"
+  },
+  "alchemist's mark": {
+    "name": "煉金術士印記"
+  },
+  "ambush": {
+    "name": "伏擊"
+  },
+  "ancestral blademaster": {
+    "name": "先祖大劍師"
+  },
+  "ancestral cry": {
+    "name": "先祖戰吼"
+  },
+  "ancestral protector": {
+    "name": "先祖衛士"
+  },
+  "ancestral warchief": {
+    "name": "先祖戰士長"
+  },
+  "anger": {
+    "name": "憤怒"
+  },
+  "animate guardian": {
+    "name": "幻化守衛"
+  },
+  "animate guardian's weapon": {
+    "name": "幻化守衛武器"
+  },
+  "animate weapon": {
+    "name": "幻化武器"
+  },
+  "approaching flames": {
+    "name": "無極赤炎"
+  },
+  "arc": {
+    "name": "電弧"
+  },
+  "arcane cloak": {
+    "name": "秘能披風"
+  },
+  "arcane wake": {
+    "name": "秘能喚醒"
+  },
+  "arcanist brand": {
+    "name": "奧術烙印"
+  },
+  "arctic armour": {
+    "name": "極地裝甲"
+  },
+  "armageddon brand": {
+    "name": "末日烙印"
+  },
+  "artillery ballista": {
+    "name": "火砲砲塔"
+  },
+  "aspect of the avian": {
+    "name": "飛羽祝福"
+  },
+  "aspect of the cat": {
+    "name": "傲貓祝福"
+  },
+  "aspect of the crab": {
+    "name": "蟹將祝福"
+  },
+  "aspect of the spider": {
+    "name": "毒蛛祝福"
+  },
+  "assassin's mark": {
+    "name": "刺客印記"
+  },
+  "atlas riftwalk": {
+    "name": "異界迷蹤"
+  },
+  "backstab": {
+    "name": "背刺"
+  },
+  "ball lightning": {
+    "name": "天雷之珠"
+  },
+  "bane": {
+    "name": "災厄"
+  },
+  "barrage": {
+    "name": "彈幕"
+  },
+  "barrel explosion": {
+    "name": "火力爆裂"
+  },
+  "battlemage's cry": {
+    "name": "戰法戰吼"
+  },
+  "bear trap": {
+    "name": "捕熊陷阱"
+  },
+  "berserk": {
+    "name": "狂戰士"
+  },
+  "blade blast": {
+    "name": "劍刃爆破"
+  },
+  "blade flurry": {
+    "name": "刀鋒亂舞"
+  },
+  "blade trap": {
+    "name": "刀鋒陷阱"
+  },
+  "blade vortex": {
+    "name": "飛刃風暴"
+  },
+  "bladefall": {
+    "name": "虛空刀雨"
+  },
+  "bladestorm": {
+    "name": "旋天劍舞"
+  },
+  "blast rain": {
+    "name": "爆裂箭雨"
+  },
+  "blazing salvo": {
+    "name": "熾熱魔炮"
+  },
+  "bleed nova": {
+    "name": "流血冰霜"
+  },
+  "blight": {
+    "name": "萎滅"
+  },
+  "blinding aura": {
+    "name": "致盲光環"
+  },
+  "blink arrow": {
+    "name": "閃現射擊"
+  },
+  "blood and sand": {
+    "name": "血腥沙戮"
+  },
+  "blood offering": {
+    "name": "鮮血奉獻"
+  },
+  "blood rage": {
+    "name": "鮮血狂怒"
+  },
+  "blood sacrament": {
+    "name": "血祭聖禮"
+  },
+  "bodyswap": {
+    "name": "屍術傳送"
+  },
+  "bone armour": {
+    "name": "骸骨鎧甲"
+  },
+  "bone mortar": {
+    "name": "駭骨砲塔"
+  },
+  "bone nova": {
+    "name": "刺骨新星"
+  },
+  "bone offering": {
+    "name": "骸骨奉獻"
+  },
+  "boneshatter": {
+    "name": "碎骨"
+  },
+  "brand recall": {
+    "name": "烙印呼喚"
+  },
+  "brandsurge": {
+    "name": "烙印波動"
+  },
+  "burning arrow": {
+    "name": "燃燒箭矢"
+  },
+  "call of steel": {
+    "name": "鋼之呼喚"
+  },
+  "capture monster": {
+    "name": "捕獲野獸"
+  },
+  "caustic arrow": {
+    "name": "腐蝕箭矢"
+  },
+  "chain hook": {
+    "name": "奪魂勾索"
+  },
+  "charged dash": {
+    "name": "雷霆衝鋒"
+  },
+  "clarity": {
+    "name": "清晰"
+  },
+  "cleave": {
+    "name": "劈砍"
+  },
+  "cobra lash": {
+    "name": "毒蛇鞭笞"
+  },
+  "cold aegis": {
+    "name": "冰冷聖盾"
+  },
+  "cold snap": {
+    "name": "霜暴"
+  },
+  "combust": {
+    "name": "戰燃"
+  },
+  "commandment of blades": {
+    "name": "刀鋒之誡"
+  },
+  "commandment of flames": {
+    "name": "烈火之誡"
+  },
+  "commandment of force": {
+    "name": "原力之誡"
+  },
+  "commandment of frost": {
+    "name": "寒冰之誡"
+  },
+  "commandment of fury": {
+    "name": "狂怒之誡"
+  },
+  "commandment of inferno": {
+    "name": "煉獄之誡"
+  },
+  "commandment of ire": {
+    "name": "憤怒之誡"
+  },
+  "commandment of light": {
+    "name": "光之誡"
+  },
+  "commandment of reflection": {
+    "name": "倒影之誡"
+  },
+  "commandment of spite": {
+    "name": "怨恨之誡"
+  },
+  "commandment of the grave": {
+    "name": "冰墓之誡"
+  },
+  "commandment of the tempest": {
+    "name": "風暴之誡"
+  },
+  "commandment of thunder": {
+    "name": "雷電之誡"
+  },
+  "commandment of war": {
+    "name": "戰爭之誡"
+  },
+  "commandment of winter": {
+    "name": "冬之誡"
+  },
+  "conductivity": {
+    "name": "導電"
+  },
+  "consecrate": {
+    "name": "奉獻"
+  },
+  "consecrated path": {
+    "name": "奉獻之路"
+  },
+  "consume bones": {
+    "name": "吞噬駭骨"
+  },
+  "contagion": {
+    "name": "瘟疫"
+  },
+  "contaminate": {
+    "name": "污毒之域"
+  },
+  "conversion trap": {
+    "name": "迷魅陷阱"
+  },
+  "convocation": {
+    "name": "號召"
+  },
+  "corpse walk": {
+    "name": "行屍走肉"
+  },
+  "corrupting fever": {
+    "name": "腐化潮"
+  },
+  "crackling lance": {
+    "name": "碎雷電閃"
+  },
+  "create lesser shrine": {
+    "name": "產生低階神殿"
+  },
+  "creeping frost": {
+    "name": "寒霜滲透"
+  },
+  "cremation": {
+    "name": "熔炎送葬"
+  },
+  "curse consume": {
+    "name": "詛咒強化"
+  },
+  "curse transfer": {
+    "name": "詛咒轉移"
+  },
+  "cyclone": {
+    "name": "旋風斬"
+  },
+  "damage infusion": {
+    "name": "傷害灌注"
+  },
+  "damage on movement skill use aura": {
+    "name": "使用位移技能時受到傷害光環"
+  },
+  "dark pact": {
+    "name": "暗夜血契"
+  },
+  "darktongue's kiss": {
+    "name": "禁忌之吻"
+  },
+  "dash": {
+    "name": "幻步"
+  },
+  "death aura": {
+    "name": "死亡光環"
+  },
+  "death walk": {
+    "name": "屍行"
+  },
+  "death wish": {
+    "name": "咒死"
+  },
+  "decoy totem": {
+    "name": "誘餌圖騰"
+  },
+  "decree of blades": {
+    "name": "刀鋒之令"
+  },
+  "decree of flames": {
+    "name": "烈火之令"
+  },
+  "decree of force": {
+    "name": "原力之令"
+  },
+  "decree of frost": {
+    "name": "寒冰之令"
+  },
+  "decree of fury": {
+    "name": "狂怒之令"
+  },
+  "decree of inferno": {
+    "name": "煉獄之令"
+  },
+  "decree of ire": {
+    "name": "憤怒之令"
+  },
+  "decree of light": {
+    "name": "光之令"
+  },
+  "decree of reflection": {
+    "name": "倒影之令"
+  },
+  "decree of spite": {
+    "name": "怨恨之令"
+  },
+  "decree of the grave": {
+    "name": "冰墓之令"
+  },
+  "decree of the tempest": {
+    "name": "風暴之令"
+  },
+  "decree of thunder": {
+    "name": "雷電之令"
+  },
+  "decree of war": {
+    "name": "戰爭之令"
+  },
+  "decree of winter": {
+    "name": "冬之令"
+  },
+  "default attack": {
+    "name": "普通攻擊"
+  },
+  "defiance banner": {
+    "name": "反抗之旗"
+  },
+  "desecrate": {
+    "name": "褻瀆"
+  },
+  "despair": {
+    "name": "絕望"
+  },
+  "destructive link": {
+    "name": "連結：破壞"
+  },
+  "determination": {
+    "name": "堅定"
+  },
+  "detonate dead": {
+    "name": "屍體爆破"
+  },
+  "detonate mines": {
+    "name": "引爆地雷"
+  },
+  "devouring totem": {
+    "name": "吞噬圖騰"
+  },
+  "direct ants": {
+    "name": "引導螞蟻"
+  },
+  "discharge": {
+    "name": "解放"
+  },
+  "discipline": {
+    "name": "紀律"
+  },
+  "divine ire": {
+    "name": "聖怒"
+  },
+  "dominating blow": {
+    "name": "霸氣之擊"
+  },
+  "doom arrow": {
+    "name": "厄運箭矢"
+  },
+  "doom blast": {
+    "name": "厄運枯萎"
+  },
+  "doryani's touch": {
+    "name": "多里亞尼之觸"
+  },
+  "double strike": {
+    "name": "雙重打擊"
+  },
+  "dread banner": {
+    "name": "恐懼之旗"
+  },
+  "dual strike": {
+    "name": "雙持打擊"
+  },
+  "earthquake": {
+    "name": "震地"
+  },
+  "earthshatter": {
+    "name": "碎地重擊"
+  },
+  "edict of blades": {
+    "name": "刀鋒之律"
+  },
+  "edict of flames": {
+    "name": "烈火之律"
+  },
+  "edict of force": {
+    "name": "原力之律"
+  },
+  "edict of frost": {
+    "name": "寒冰之律"
+  },
+  "edict of fury": {
+    "name": "狂怒之律"
+  },
+  "edict of inferno": {
+    "name": "煉獄之律"
+  },
+  "edict of ire": {
+    "name": "憤怒之律"
+  },
+  "edict of light": {
+    "name": "光之律"
+  },
+  "edict of reflection": {
+    "name": "倒影之律"
+  },
+  "edict of spite": {
+    "name": "怨恨之律"
+  },
+  "edict of the grave": {
+    "name": "冰墓之律"
+  },
+  "edict of the tempest": {
+    "name": "風暴之律"
+  },
+  "edict of thunder": {
+    "name": "雷電之律"
+  },
+  "edict of war": {
+    "name": "戰爭之律"
+  },
+  "edict of winter": {
+    "name": "冬之律"
+  },
+  "elemental aegis": {
+    "name": "元素聖盾"
+  },
+  "elemental hit": {
+    "name": "元素打擊"
+  },
+  "elemental projectiles": {
+    "name": "元素投射"
+  },
+  "elemental warding": {
+    "name": "元素守護"
+  },
+  "elemental weakness": {
+    "name": "元素要害"
+  },
+  "embrace madness": {
+    "name": "擁抱瘋魔"
+  },
+  "empowering howl": {
+    "name": "增強怒嚎"
+  },
+  "enduring cry": {
+    "name": "堅決戰吼"
+  },
+  "energy blade": {
+    "name": "能量之刃"
+  },
+  "enfeeble": {
+    "name": "衰弱"
+  },
+  "ensnaring arrow": {
+    "name": "誘捕箭矢"
+  },
+  "envy": {
+    "name": "忌妒"
+  },
+  "essence drain": {
+    "name": "靈魂吸取"
+  },
+  "ethereal knives": {
+    "name": "虛空匕首"
+  },
+  "explosive arrow": {
+    "name": "爆炸箭矢"
+  },
+  "explosive concoction": {
+    "name": "爆裂物"
+  },
+  "explosive trap": {
+    "name": "爆裂陷阱"
+  },
+  "exsanguinate": {
+    "name": "抽血"
+  },
+  "eye of winter": {
+    "name": "凜冬之眼"
+  },
+  "face last target": {
+    "name": "面對最後目標"
+  },
+  "feast of flesh": {
+    "name": "血肉盛宴"
+  },
+  "fiery impact": {
+    "name": "熾熱衝擊"
+  },
+  "figurehead incinerate": {
+    "name": "頭像燒毀"
+  },
+  "fire aegis": {
+    "name": "火焰聖盾"
+  },
+  "fire burst": {
+    "name": "火焰爆破"
+  },
+  "fire elemental cone": {
+    "name": "火元素炎錐"
+  },
+  "fire nova mine": {
+    "name": "火焰新星地雷"
+  },
+  "fire projectile retaliation": {
+    "name": "火焰投射物復仇"
+  },
+  "fire trap": {
+    "name": "火焰陷阱"
+  },
+  "fire weapon": {
+    "name": "烈焰武器"
+  },
+  "fireball": {
+    "name": "火球"
+  },
+  "firestorm": {
+    "name": "烈炎風暴"
+  },
+  "flame breath": {
+    "name": "火焰之息"
+  },
+  "flame dash": {
+    "name": "烈焰衝刺"
+  },
+  "flame link": {
+    "name": "連結：烈焰"
+  },
+  "flame surge": {
+    "name": "怒焰奔騰"
+  },
+  "flame wall": {
+    "name": "烈焰之牆"
+  },
+  "flameblast": {
+    "name": "烈焰爆破"
+  },
+  "flames of judgement": {
+    "name": "審判烈焰"
+  },
+  "flamethrower trap": {
+    "name": "噴火陷阱"
+  },
+  "flammability": {
+    "name": "易燃"
+  },
+  "flammable shot": {
+    "name": "燃燒射擊"
+  },
+  "flask charge nova": {
+    "name": "藥劑充能冰霜"
+  },
+  "flesh and stone": {
+    "name": "血肉骸骨"
+  },
+  "flesh offering": {
+    "name": "血肉奉獻"
+  },
+  "flicker strike": {
+    "name": "閃現打擊"
+  },
+  "flicker thrust": {
+    "name": "閃現突擊"
+  },
+  "focus": {
+    "name": "專注"
+  },
+  "fog of war": {
+    "name": "戰爭迷霧"
+  },
+  "forbidden rite": {
+    "name": "禁忌儀式"
+  },
+  "freeze mine": {
+    "name": "冰凍地雷"
+  },
+  "freezing pulse": {
+    "name": "冰霜脈衝"
+  },
+  "frenzy": {
+    "name": "狂怒"
+  },
+  "frost blades": {
+    "name": "冰霜之刃"
+  },
+  "frost bolt channel": {
+    "name": "持續施法寒冰彈"
+  },
+  "frost bomb": {
+    "name": "寒霜爆"
+  },
+  "frost shield": {
+    "name": "寒霜護盾"
+  },
+  "frost wall": {
+    "name": "冰牆"
+  },
+  "frostbite": {
+    "name": "凍傷"
+  },
+  "frostblink": {
+    "name": "霜漣之瞬"
+  },
+  "frostbolt": {
+    "name": "寒冰彈"
+  },
+  "frozen legion": {
+    "name": "戰亂．凍結"
+  },
+  "frozen sweep": {
+    "name": "橫掃．凍結"
+  },
+  "galvanic arrow": {
+    "name": "電流箭矢"
+  },
+  "galvanic field": {
+    "name": "電光領域"
+  },
+  "general's cry": {
+    "name": "將軍戰吼"
+  },
+  "glacial cascade": {
+    "name": "冰川之刺"
+  },
+  "glacial hammer": {
+    "name": "冰霜之錘"
+  },
+  "glimpse of eternity": {
+    "name": "永恆閃光"
+  },
+  "gluttony of elements": {
+    "name": "元素之癒"
+  },
+  "goddess beam": {
+    "name": "女神光束"
+  },
+  "goddess warp": {
+    "name": "女神傳送"
+  },
+  "gore shockwave": {
+    "name": "血腥衝擊波"
+  },
+  "grace": {
+    "name": "優雅"
+  },
+  "ground slam": {
+    "name": "裂地之擊"
+  },
+  "haste": {
+    "name": "迅捷"
+  },
+  "hatred": {
+    "name": "憎恨"
+  },
+  "heavy strike": {
+    "name": "沉重之擊"
+  },
+  "herald of agony": {
+    "name": "苦痛之捷"
+  },
+  "herald of ash": {
+    "name": "灰燼之捷"
+  },
+  "herald of blood": {
+    "name": "鮮血之捷"
+  },
+  "herald of ice": {
+    "name": "冰霜之捷"
+  },
+  "herald of purity": {
+    "name": "純淨之捷"
+  },
+  "herald of thunder": {
+    "name": "閃電之捷"
+  },
+  "hexblast": {
+    "name": "咒術枯萎"
+  },
+  "holy flame totem": {
+    "name": "神聖火舌圖騰"
+  },
+  "hydrosphere": {
+    "name": "水弒界"
+  },
+  "ice crash": {
+    "name": "寒冰衝擊"
+  },
+  "ice elemental spear": {
+    "name": "冰元素尖矛"
+  },
+  "ice nova": {
+    "name": "冰霜新星"
+  },
+  "ice shot": {
+    "name": "冰霜射擊"
+  },
+  "ice spear": {
+    "name": "冰矛"
+  },
+  "ice trap": {
+    "name": "冰凍陷阱"
+  },
+  "icefire": {
+    "name": "霜火"
+  },
+  "icestorm": {
+    "name": "冰風暴"
+  },
+  "icicle burst": {
+    "name": "冰柱爆裂"
+  },
+  "icicle mine": {
+    "name": "冰雹地雷"
+  },
+  "ignite": {
+    "name": "點燃"
+  },
+  "illusory warp": {
+    "name": "幻影傳送"
+  },
+  "immortal call": {
+    "name": "不朽怒嚎"
+  },
+  "inca boss freezing pulse": {
+    "name": "印加頭目急凍波"
+  },
+  "incinerate": {
+    "name": "燃火燒盡"
+  },
+  "increased damage taken aura": {
+    "name": "增加受到傷害光環"
+  },
+  "infernal blow": {
+    "name": "煉獄之擊"
+  },
+  "infernal cry": {
+    "name": "煉獄戰吼"
+  },
+  "infernal sweep": {
+    "name": "煉獄襲擊"
+  },
+  "intimidating cry": {
+    "name": "威嚇戰吼"
+  },
+  "intuitive link": {
+    "name": "連結：直覺"
+  },
+  "izaro warp": {
+    "name": "伊澤洛傳送"
+  },
+  "kill": {
+    "name": "殺死"
+  },
+  "kinetic blast": {
+    "name": "力量爆破"
+  },
+  "kinetic bolt": {
+    "name": "力量穿引"
+  },
+  "lacerate": {
+    "name": "破空斬"
+  },
+  "lancing steel": {
+    "name": "鋼之突刺"
+  },
+  "leap slam": {
+    "name": "躍擊"
+  },
+  "lightning aegis": {
+    "name": "閃電聖盾"
+  },
+  "lightning arrow": {
+    "name": "閃電箭矢"
+  },
+  "lightning bolt": {
+    "name": "雷彈"
+  },
+  "lightning clone retaliation": {
+    "name": "閃電複製體反擊"
+  },
+  "lightning conduit": {
+    "name": "導雷"
+  },
+  "lightning spire trap": {
+    "name": "鋒雷陷阱"
+  },
+  "lightning strike": {
+    "name": "閃電打擊"
+  },
+  "lightning tendrils": {
+    "name": "電能釋放"
+  },
+  "lightning trap": {
+    "name": "閃電陷阱"
+  },
+  "lightning warp": {
+    "name": "閃電傳送"
+  },
+  "malevolence": {
+    "name": "惡意"
+  },
+  "manabond": {
+    "name": "魔能束縛"
+  },
+  "manifest dancing dervishes": {
+    "name": "幻化狂舞德爾維希"
+  },
+  "mirror arrow": {
+    "name": "魅影射擊"
+  },
+  "molten burst": {
+    "name": "熔岩爆破"
+  },
+  "molten shell": {
+    "name": "熔岩護盾"
+  },
+  "molten strike": {
+    "name": "熔岩之擊"
+  },
+  "mortar": {
+    "name": "迫擊砲"
+  },
+  "orb of storms": {
+    "name": "風暴漩渦"
+  },
+  "penance brand": {
+    "name": "贖罪烙印"
+  },
+  "perforate": {
+    "name": "裂地刺穿"
+  },
+  "pestilent strike": {
+    "name": "瘟疫打擊"
+  },
+  "petrification statue": {
+    "name": "石化雕像"
+  },
+  "petrified blood": {
+    "name": "石化之血"
+  },
+  "phase run": {
+    "name": "暗影迷蹤"
+  },
+  "physical aegis": {
+    "name": "物理聖盾"
+  },
+  "physical degeneration aura": {
+    "name": "持續物理傷害光環"
+  },
+  "physical projectile retaliation": {
+    "name": "物理投射物復仇"
+  },
+  "piety beam": {
+    "name": "派蒂光束"
+  },
+  "piety reverse cleave": {
+    "name": "派蒂反向劈砍"
+  },
+  "plague": {
+    "name": "病疫"
+  },
+  "plague bearer": {
+    "name": "病疫之難"
+  },
+  "poacher's mark": {
+    "name": "盜獵者印記"
+  },
+  "poisonous concoction": {
+    "name": "毒藥"
+  },
+  "polymorph": {
+    "name": "變形術"
+  },
+  "portal": {
+    "name": "時空之門"
+  },
+  "power siphon": {
+    "name": "力量抽取"
+  },
+  "precision": {
+    "name": "精準"
+  },
+  "pride": {
+    "name": "驕傲"
+  },
+  "primal aegis": {
+    "name": "始祖聖盾"
+  },
+  "protective link": {
+    "name": "連結：保護"
+  },
+  "puncture": {
+    "name": "放血"
+  },
+  "punishment": {
+    "name": "懲戒"
+  },
+  "purifying flame": {
+    "name": "淨化烈焰"
+  },
+  "purity of elements": {
+    "name": "元素淨化"
+  },
+  "purity of fire": {
+    "name": "火焰淨化"
+  },
+  "purity of ice": {
+    "name": "冰霜淨化"
+  },
+  "purity of lightning": {
+    "name": "閃電淨化"
+  },
+  "pyroclast mine": {
+    "name": "炎爆新星地雷"
+  },
+  "queen's demand": {
+    "name": "女王之慾"
+  },
+  "rage vortex": {
+    "name": "盛怒漩渦"
+  },
+  "rain of arrows": {
+    "name": "箭雨"
+  },
+  "rain of blades": {
+    "name": "刀雨"
+  },
+  "raise spectre": {
+    "name": "喚醒幽魂"
+  },
+  "raise spiders": {
+    "name": "異蛛復甦"
+  },
+  "raise zombie": {
+    "name": "殭屍復甦"
+  },
+  "rallying cry": {
+    "name": "激勵戰吼"
+  },
+  "range finder": {
+    "name": "距離探測"
+  },
+  "reap": {
+    "name": "收割"
+  },
+  "reave": {
+    "name": "衝擊波"
+  },
+  "reckoning": {
+    "name": "清算"
+  },
+  "reflection": {
+    "name": "反射"
+  },
+  "rejuvenation totem": {
+    "name": "回春圖騰"
+  },
+  "rending steel (not currently used)": {
+    "name": "鋼之裂化"
+  },
+  "righteous fire": {
+    "name": "正義之火"
+  },
+  "righteous lightning": {
+    "name": "正義怒雷"
+  },
+  "riposte": {
+    "name": "擊刃"
+  },
+  "riptide": {
+    "name": "激流"
+  },
+  "rolling magma": {
+    "name": "熔岩翻騰"
+  },
+  "rune blast": {
+    "name": "符文爆破"
+  },
+  "scorching ray": {
+    "name": "熾灼奔流"
+  },
+  "scourge arrow": {
+    "name": "天譴之箭"
+  },
+  "searing bond": {
+    "name": "灼熱連結"
+  },
+  "seismic cry": {
+    "name": "裂地戰吼"
+  },
+  "seismic trap": {
+    "name": "地裂陷阱"
+  },
+  "shade form": {
+    "name": "暗影姿態"
+  },
+  "shadow blades": {
+    "name": "幻影刀刃"
+  },
+  "shattering steel": {
+    "name": "鋼之碎擊"
+  },
+  "shield charge": {
+    "name": "重盾衝鋒"
+  },
+  "shield crush": {
+    "name": "重盾粉碎"
+  },
+  "shield shatter": {
+    "name": "盾牌碎裂"
+  },
+  "shock ground": {
+    "name": "感電地面"
+  },
+  "shock nova": {
+    "name": "閃電新星"
+  },
+  "shockwave": {
+    "name": "衝擊波"
+  },
+  "shockwave totem": {
+    "name": "圖騰：震波"
+  },
+  "shrapnel ballista": {
+    "name": "彈片砲塔"
+  },
+  "siege ballista": {
+    "name": "攻城炮台"
+  },
+  "sigil of power": {
+    "name": "咒符之力"
+  },
+  "signal prey": {
+    "name": "獵物信號"
+  },
+  "siphoning trap": {
+    "name": "虹吸陷阱"
+  },
+  "slow aura": {
+    "name": "緩速光環"
+  },
+  "smite": {
+    "name": "雷鳴重擊"
+  },
+  "smoke mine": {
+    "name": "煙霧地雷"
+  },
+  "snipe": {
+    "name": "狙擊"
+  },
+  "sniper's mark": {
+    "name": "狙擊者印記"
+  },
+  "soul link": {
+    "name": "連結：靈魂"
+  },
+  "soulrend": {
+    "name": "靈體撕裂"
+  },
+  "spark": {
+    "name": "電球"
+  },
+  "spectral helix": {
+    "name": "靈體旋武"
+  },
+  "spectral shield throw": {
+    "name": "盾靈投擲"
+  },
+  "spectral spinning weapon": {
+    "name": "靈製武器"
+  },
+  "spectral spirits": {
+    "name": "幽魂之靈"
+  },
+  "spectral throw": {
+    "name": "靈體投擲"
+  },
+  "spellslinger": {
+    "name": "法術回音"
+  },
+  "spirit burst": {
+    "name": "靈體爆破"
+  },
+  "spirit offering": {
+    "name": "靈魂奉獻"
+  },
+  "split arrow": {
+    "name": "分裂箭矢"
+  },
+  "splitting steel": {
+    "name": "鋼之裂化"
+  },
+  "stalking pustule": {
+    "name": "潛行毒玉"
+  },
+  "static strike": {
+    "name": "充能打擊"
+  },
+  "static tether": {
+    "name": "靜電鎖鏈"
+  },
+  "steelskin": {
+    "name": "鋼筋鐵骨"
+  },
+  "storm brand": {
+    "name": "風暴烙印"
+  },
+  "storm burst": {
+    "name": "風爆"
+  },
+  "storm call": {
+    "name": "風暴呼喚"
+  },
+  "storm cascade": {
+    "name": "風暴突襲"
+  },
+  "storm cloud lightning warp": {
+    "name": "暴雨雲閃電傳送"
+  },
+  "storm of judgement": {
+    "name": "審判風暴"
+  },
+  "storm rain": {
+    "name": "暴風雷雨"
+  },
+  "stormbind": {
+    "name": "風暴術符"
+  },
+  "stormblast mine": {
+    "name": "風爆地雷"
+  },
+  "summon arbalists": {
+    "name": "召喚弩兵"
+  },
+  "summon bestial rhoa": {
+    "name": "召喚兇猛恐喙鳥"
+  },
+  "summon bestial snake": {
+    "name": "召喚兇猛蟒蛇"
+  },
+  "summon bestial ursa": {
+    "name": "召喚兇猛之爪"
+  },
+  "summon carrion golem": {
+    "name": "召喚食腐魔像"
+  },
+  "summon chaos golem": {
+    "name": "召喚混沌魔像"
+  },
+  "summon doedre's effigy": {
+    "name": "召喚德瑞肖像"
+  },
+  "summon flame golem": {
+    "name": "召喚烈焰魔像"
+  },
+  "summon greater harbinger of brutality": {
+    "name": "召喚高階暴虐神諭"
+  },
+  "summon greater harbinger of directions": {
+    "name": "召喚高階象限神諭"
+  },
+  "summon greater harbinger of focus": {
+    "name": "召喚高階專注神諭"
+  },
+  "summon greater harbinger of storms": {
+    "name": "召喚高階風暴神諭"
+  },
+  "summon greater harbinger of the arcane": {
+    "name": "召喚高階奧術神諭"
+  },
+  "summon greater harbinger of time": {
+    "name": "召喚高階時空神諭"
+  },
+  "summon harbinger of brutality": {
+    "name": "召喚暴虐神諭"
+  },
+  "summon harbinger of directions": {
+    "name": "召喚象限神諭"
+  },
+  "summon harbinger of focus": {
+    "name": "召喚專注神諭"
+  },
+  "summon harbinger of storms": {
+    "name": "召喚風暴神諭"
+  },
+  "summon harbinger of the arcane": {
+    "name": "召喚奧術神諭"
+  },
+  "summon harbinger of time": {
+    "name": "召喚時空神諭"
+  },
+  "summon holy relic": {
+    "name": "召喚聖物"
+  },
+  "summon ice golem": {
+    "name": "召喚寒冰魔像"
+  },
+  "summon lightning golem": {
+    "name": "召喚閃電魔像"
+  },
+  "summon phantasm": {
+    "name": "召喚幻影"
+  },
+  "summon raging spirit": {
+    "name": "召喚憤怒狂靈"
+  },
+  "summon reaper": {
+    "name": "召喚奪魂鐮"
+  },
+  "summon skeletons": {
+    "name": "召喚骷髏"
+  },
+  "summon skeletons channelled": {
+    "name": "引導召喚骷髏"
+  },
+  "summon skitterbots": {
+    "name": "召喚探測機獸"
+  },
+  "summon spectral wolf": {
+    "name": "召喚幽狼"
+  },
+  "summon stone golem": {
+    "name": "召喚巨石魔像"
+  },
+  "summon taunting contraption": {
+    "name": "召喚嘲諷機械"
+  },
+  "sunder": {
+    "name": "大地震擊"
+  },
+  "sweep": {
+    "name": "橫掃"
+  },
+  "table charge": {
+    "name": "圓盾衝鋒"
+  },
+  "talisman degen": {
+    "name": "魔符詛咒"
+  },
+  "talisman summon lightning spiral": {
+    "name": "魔符召喚電渦"
+  },
+  "taunt": {
+    "name": "嘲諷"
+  },
+  "tawhoa's chosen": {
+    "name": "塔赫亞的抉擇"
+  },
+  "tectonic slam": {
+    "name": "破體之擊"
+  },
+  "tempest shield": {
+    "name": "暴風之盾"
+  },
+  "temporal chains": {
+    "name": "時空鎖鏈"
+  },
+  "temporal rift": {
+    "name": "時空裂隙"
+  },
+  "tentacle whip": {
+    "name": "觸手鞭擊"
+  },
+  "thirst for blood": {
+    "name": "嗜血"
+  },
+  "throw": {
+    "name": "投擲"
+  },
+  "throw dynamite": {
+    "name": "投擲炸藥"
+  },
+  "throw flare": {
+    "name": "投擲閃光"
+  },
+  "tornado": {
+    "name": "龍捲風"
+  },
+  "tornado shot": {
+    "name": "龍捲射擊"
+  },
+  "touch of god": {
+    "name": "天譴之拳"
+  },
+  "toxic rain": {
+    "name": "腐蝕毒雨"
+  },
+  "twister": {
+    "name": "旋風"
+  },
+  "unearth": {
+    "name": "破墳術"
+  },
+  "unhinge": {
+    "name": "錯亂"
+  },
+  "unnamed2": {
+    "name": "未命名"
+  },
+  "unseen strike": {
+    "name": "隱匿突擊"
+  },
+  "vaal ancestral warchief": {
+    "name": "瓦爾．先祖戰士長"
+  },
+  "vaal arc": {
+    "name": "瓦爾．電弧"
+  },
+  "vaal blade flurry": {
+    "name": "瓦爾．刀鋒亂舞"
+  },
+  "vaal blade vortex": {
+    "name": "瓦爾．飛刃風暴"
+  },
+  "vaal blight": {
+    "name": "瓦爾．萎滅"
+  },
+  "vaal breach": {
+    "name": "瓦爾．裂痕"
+  },
+  "vaal burning arrow": {
+    "name": "瓦爾．燃燒箭矢"
+  },
+  "vaal caustic arrow": {
+    "name": "瓦爾．腐蝕箭矢"
+  },
+  "vaal clarity": {
+    "name": "瓦爾．清晰"
+  },
+  "vaal cleave": {
+    "name": "瓦爾．劈砍"
+  },
+  "vaal cold snap": {
+    "name": "瓦爾．霜暴"
+  },
+  "vaal cyclone": {
+    "name": "瓦爾．旋風斬"
+  },
+  "vaal detonate dead": {
+    "name": "瓦爾．屍體爆破"
+  },
+  "vaal discipline": {
+    "name": "瓦爾．紀律"
+  },
+  "vaal double strike": {
+    "name": "瓦爾．雙重打擊"
+  },
+  "vaal earthquake": {
+    "name": "瓦爾．震地"
+  },
+  "vaal fire trap": {
+    "name": "瓦爾．火焰陷阱"
+  },
+  "vaal fireball": {
+    "name": "瓦爾．火球"
+  },
+  "vaal flameblast": {
+    "name": "瓦爾．烈焰爆破"
+  },
+  "vaal flesh offering": {
+    "name": "瓦爾．血肉奉獻"
+  },
+  "vaal flicker strike": {
+    "name": "瓦爾．閃現打擊"
+  },
+  "vaal glacial hammer": {
+    "name": "瓦爾．冰霜之錘"
+  },
+  "vaal grace": {
+    "name": "瓦爾．優雅"
+  },
+  "vaal ground slam": {
+    "name": "瓦爾．裂地之擊"
+  },
+  "vaal haste": {
+    "name": "瓦爾．迅捷"
+  },
+  "vaal heavy strike": {
+    "name": "瓦爾．沉重之擊"
+  },
+  "vaal ice nova": {
+    "name": "瓦爾．冰霜新星"
+  },
+  "vaal immortal call": {
+    "name": "瓦爾．不朽怒嚎"
+  },
+  "vaal impurity of fire": {
+    "name": "瓦爾．不淨之火"
+  },
+  "vaal impurity of ice": {
+    "name": "瓦爾．不淨之冰"
+  },
+  "vaal impurity of lightning": {
+    "name": "瓦爾．不淨之雷"
+  },
+  "vaal lightning strike": {
+    "name": "瓦爾．閃電打擊"
+  },
+  "vaal lightning trap": {
+    "name": "瓦爾．閃電陷阱"
+  },
+  "vaal lightning warp": {
+    "name": "瓦爾．閃電傳送"
+  },
+  "vaal molten shell": {
+    "name": "瓦爾．熔岩護盾"
+  },
+  "vaal molten strike": {
+    "name": "瓦爾．熔岩之擊"
+  },
+  "vaal power siphon": {
+    "name": "瓦爾．力量抽取"
+  },
+  "vaal rain of arrows": {
+    "name": "瓦爾．箭雨"
+  },
+  "vaal reave": {
+    "name": "瓦爾．衝擊波"
+  },
+  "vaal righteous fire": {
+    "name": "瓦爾．正義之火"
+  },
+  "vaal smite": {
+    "name": "瓦爾．雷鳴重擊"
+  },
+  "vaal spark": {
+    "name": "瓦爾．電球"
+  },
+  "vaal spectral throw": {
+    "name": "瓦爾．靈體投擲"
+  },
+  "vaal storm call": {
+    "name": "瓦爾．風暴呼喚"
+  },
+  "vaal summon skeletons": {
+    "name": "瓦爾．召喚骷髏"
+  },
+  "vaal sweep": {
+    "name": "瓦爾．橫掃"
+  },
+  "vaal venom gyre": {
+    "name": "瓦爾．猛毒迴旋"
+  },
+  "vaal vitality": {
+    "name": "瓦爾．活力"
+  },
+  "vaal volcanic fissure": {
+    "name": "瓦爾．炎火脈動"
+  },
+  "vampiric link": {
+    "name": "連結：吸血"
+  },
+  "vengeance": {
+    "name": "復仇"
+  },
+  "venom gyre": {
+    "name": "猛毒迴旋"
+  },
+  "vigilant strike": {
+    "name": "戒備打擊"
+  },
+  "vinktar lightning bond": {
+    "name": "閃電鏈結"
+  },
+  "viper strike": {
+    "name": "毒蛇打擊"
+  },
+  "vitality": {
+    "name": "活力"
+  },
+  "void gaze": {
+    "name": "虛空凝視"
+  },
+  "void shot": {
+    "name": "虛無疾射"
+  },
+  "void sphere": {
+    "name": "虛無玉"
+  },
+  "volatile anomaly": {
+    "name": "極凍天體"
+  },
+  "volatile dead": {
+    "name": "致命之息"
+  },
+  "volcanic fissure": {
+    "name": "炎火脈動"
+  },
+  "voltaxic burst": {
+    "name": "魔痕爆發"
+  },
+  "vortex": {
+    "name": "旋渦"
+  },
+  "vulnerability": {
+    "name": "脆弱"
+  },
+  "wand teleport": {
+    "name": "傳送法杖"
+  },
+  "war banner": {
+    "name": "征戰之旗"
+  },
+  "warlord's mark": {
+    "name": "督軍印記"
+  },
+  "wave of conviction": {
+    "name": "信念浪湧"
+  },
+  "whirling blades": {
+    "name": "迴旋之刃"
+  },
+  "whirling leap": {
+    "name": "迴旋躍擊"
+  },
+  "wild strike": {
+    "name": "野性打擊"
+  },
+  "wildfire": {
+    "name": "野火"
+  },
+  "winter orb": {
+    "name": "凜冬之球"
+  },
+  "wintertide brand": {
+    "name": "冬潮烙印"
+  },
+  "wither": {
+    "name": "死亡凋零"
+  },
+  "withering step": {
+    "name": "凋零之步"
+  },
+  "word of blades": {
+    "name": "刀鋒之誓"
+  },
+  "word of flames": {
+    "name": "烈火之誓"
+  },
+  "word of force": {
+    "name": "原力之誓"
+  },
+  "word of frost": {
+    "name": "寒冰之誓"
+  },
+  "word of fury": {
+    "name": "狂怒之誓"
+  },
+  "word of inferno": {
+    "name": "煉獄之誓"
+  },
+  "word of ire": {
+    "name": "憤怒之誓"
+  },
+  "word of light": {
+    "name": "光之誓"
+  },
+  "word of reflection": {
+    "name": "倒影之誓"
+  },
+  "word of spite": {
+    "name": "怨恨之誓"
+  },
+  "word of the grave": {
+    "name": "冰墓之誓"
+  },
+  "word of the tempest": {
+    "name": "風暴之誓"
+  },
+  "word of thunder": {
+    "name": "雷電之誓"
+  },
+  "word of war": {
+    "name": "戰爭之誓"
+  },
+  "word of winter": {
+    "name": "冬之誓"
+  },
+  "wrath": {
+    "name": "雷霆"
+  },
+  "zealotry": {
+    "name": "狂熱"
+  },
+  "bone corpses": {
+    "name": "骸骨屍體"
+  },
+  "flip a coin": {
+    "name": "擲硬幣"
+  },
+  "gravity sphere": {
+    "name": "重力象限"
+  },
+  "prismatic burst": {
+    "name": "三相爆發"
+  },
+  "stance swap": {
+    "name": "姿態轉換"
+  },
+  "summon barrel": {
+    "name": "召喚木桶"
+  },
+  "summon triggerbots": {
+    "name": "召喚觸發機械"
+  },
+  "vaal absolution": {
+    "name": "瓦爾．赦免"
+  },
+  "vaal animate weapon": {
+    "name": "瓦爾．幻化武器"
+  },
+  "vaal arctic armour": {
+    "name": "瓦爾．極地裝甲"
+  },
+  "vaal domination": {
+    "name": "瓦爾．霸氣"
+  },
+  "vaal firestorm": {
+    "name": "瓦爾．烈炎風暴"
+  },
+  "vaal ice shot": {
+    "name": "瓦爾．冰霜射擊"
+  },
+  "vaal lightning arrow": {
+    "name": "瓦爾．閃電箭矢"
+  },
+  "vaal reap": {
+    "name": "瓦爾．收割"
+  },
+  "vaal rejuvenation totem": {
+    "name": "瓦爾．回春圖騰"
+  },
+  "vaal split arrow": {
+    "name": "瓦爾．分裂箭矢"
+  },
+  "avenging flame": {
+    "name": "復仇烈焰"
+  },
+  "play dead!": {
+    "name": "裝死！"
+  },
+  "playtest attack": {
+    "name": "測試攻擊"
+  },
+  "playtest slam": {
+    "name": "測試重擊"
+  },
+  "playtest spell": {
+    "name": "測試法術"
+  },
+  "quickstep": {
+    "name": "迅捷步伐"
+  },
+  "roll over!": {
+    "name": "翻滾！"
+  },
+  "sit!": {
+    "name": "坐下！"
+  },
+  "summon elemental relic": {
+    "name": "召喚元素聖物"
+  },
+  "summon sentinel of radiance": {
+    "name": "召喚光輝護衛"
+  },
+  "summon spirit of ahuana": {
+    "name": "召喚阿呼阿娜之魂"
+  },
+  "summon spirit of akoya": {
+    "name": "召喚艾古亞之魂"
+  },
+  "summon spirit of ikiaho": {
+    "name": "召喚伊基亞呼之魂"
+  },
+  "summon spirit of kahuturoa": {
+    "name": "召喚卡胡圖羅亞之魂"
+  },
+  "summon spirit of kaom": {
+    "name": "召喚岡姆之魂"
+  },
+  "summon spirit of kiloava": {
+    "name": "召喚基洛阿瓦之魂"
+  },
+  "summon spirit of maata": {
+    "name": "召喚瑪塔之魂"
+  },
+  "summon spirit of rakiata": {
+    "name": "召喚萊基亞塔之魂"
+  },
+  "summon spirit of tawhanuku": {
+    "name": "召喚塔瓦努庫之魂"
+  },
+  "summon spirit of utula": {
+    "name": "召喚烏圖拉之魂"
+  },
+  "who's a good doggy?": {
+    "name": "誰是乖狗勾？"
+  },
+  "spray paint celestial": {
+    "name": "噴漆彩繪．眾星"
+  },
+  "spray paint magmatic": {
+    "name": "噴漆彩繪．熔岩"
+  },
+  "spray paint blood": {
+    "name": "噴漆彩繪．鮮血"
+  },
+  "ground slam of earthshaking": {
+    "name": "裂地之擊．地震"
+  },
+  "cleave of rage": {
+    "name": "劈砍．盛怒"
+  },
+  "leap slam of groundbreaking": {
+    "name": "躍擊．地破"
+  },
+  "double strike of impaling": {
+    "name": "雙重打擊．穿刺"
+  },
+  "double strike of momentum": {
+    "name": "雙重打擊．氣勢"
+  },
+  "dual strike of ambidexterity": {
+    "name": "雙持打擊．靈活"
+  },
+  "frenzy of onslaught": {
+    "name": "狂怒．猛攻"
+  },
+  "caustic arrow of poison": {
+    "name": "腐蝕箭矢．中毒"
+  },
+  "detonate dead of scavenging": {
+    "name": "屍體爆破．清洗"
+  },
+  "detonate dead of chain reaction": {
+    "name": "屍體爆破．連鎖"
+  },
+  "flicker strike of power": {
+    "name": "閃現打擊．暴擊"
+  },
+  "split arrow of splitting": {
+    "name": "分裂箭矢．分裂"
+  },
+  "cold snap of power": {
+    "name": "霜暴．暴擊"
+  },
+  "ice nova of frostbolts": {
+    "name": "冰霜新星．寒冰彈"
+  },
+  "ice nova of deep freeze": {
+    "name": "冰霜新星．深層冰凍"
+  },
+  "arc of surging": {
+    "name": "電弧．波動"
+  },
+  "arc of oscillating": {
+    "name": "電弧．震盪"
+  },
+  "raise zombie of slamming": {
+    "name": "殭屍復甦．重擊"
+  },
+  "raise zombie of falling": {
+    "name": "殭屍復甦．殞落"
+  },
+  "righteous fire of arcane devotion": {
+    "name": "正義之火．秘能奉獻"
+  },
+  "discharge of misery": {
+    "name": "解放．苦痛"
+  },
+  "spark of the nova": {
+    "name": "電球．新星"
+  },
+  "spark of unpredictability": {
+    "name": "電球．未知"
+  },
+  "ice spear of splitting": {
+    "name": "冰矛．分裂"
+  },
+  "raise spectre of transience": {
+    "name": "喚醒幽魂．轉瞬"
+  },
+  "infernal blow of immolation": {
+    "name": "煉獄之擊．自焚"
+  },
+  "glacial hammer of shattering": {
+    "name": "冰霜之錘．粉碎"
+  },
+  "viper strike of the mamba": {
+    "name": "毒蛇打擊．曼巴"
+  },
+  "summon skeletons of archery": {
+    "name": "召喚骷髏．箭術"
+  },
+  "summon skeletons of sorcery": {
+    "name": "召喚骷髏．巫術"
+  },
+  "dominating blow of inspiring": {
+    "name": "霸氣之擊．啟發"
+  },
+  "rain of arrows of artillery": {
+    "name": "箭雨．火炮"
+  },
+  "rain of arrows of saturation": {
+    "name": "箭雨．飽和"
+  },
+  "firestorm of meteors": {
+    "name": "烈炎風暴．隕石"
+  },
+  "firestorm of pelting": {
+    "name": "烈炎風暴．猛擲"
+  },
+  "lightning strike of arcing": {
+    "name": "閃電打擊．電弧"
+  },
+  "power siphon of the archmage": {
+    "name": "力量抽取．大法師"
+  },
+  "lightning arrow of electrocution": {
+    "name": "閃電箭矢．電刑"
+  },
+  "burning arrow of vigour": {
+    "name": "燃燒箭矢．活力"
+  },
+  "bear trap of skewers": {
+    "name": "捕熊陷阱．串燒"
+  },
+  "fire trap of blasting": {
+    "name": "火焰陷阱．爆發"
+  },
+  "ethereal knives of lingering blades": {
+    "name": "虛空匕首．餘刃"
+  },
+  "ethereal knives of the massacre": {
+    "name": "虛空匕首．屠殺"
+  },
+  "ball lightning of orbiting": {
+    "name": "天雷之珠．軌跡"
+  },
+  "ball lightning of static": {
+    "name": "天雷之珠．靜電"
+  },
+  "cyclone of tumult": {
+    "name": "旋風斬．騷動"
+  },
+  "reave of refraction": {
+    "name": "衝擊波．折射"
+  },
+  "lightning trap of sparking": {
+    "name": "閃電陷阱．電球"
+  },
+  "animate guardian of smiting": {
+    "name": "幻化守衛．重擊"
+  },
+  "spectral throw of materialising": {
+    "name": "靈體投擲．具現化"
+  },
+  "animate weapon of self reflection": {
+    "name": "幻化武器．反射"
+  },
+  "animate weapon of ranged arms": {
+    "name": "幻化武器．遠程"
+  },
+  "flameblast of celerity": {
+    "name": "烈焰爆破．迅速"
+  },
+  "flameblast of contraction": {
+    "name": "烈焰爆破．緊縮"
+  },
+  "barrage of volley fire": {
+    "name": "彈幕．齊射"
+  },
+  "summon raging spirit of enormity": {
+    "name": "召喚憤怒狂靈．巨型"
+  },
+  "flame surge of combusting": {
+    "name": "怒焰奔騰．燃燒"
+  },
+  "molten strike of the zenith": {
+    "name": "熔岩之擊．極盛"
+  },
+  "tornado shot of cloudburst": {
+    "name": "龍捲射擊．雲爆"
+  },
+  "lightning tendrils of eccentricity": {
+    "name": "電能釋放．異變"
+  },
+  "lightning tendrils of escalation": {
+    "name": "電能釋放．擴大"
+  },
+  "blink arrow of bombarding clones": {
+    "name": "閃現射擊．炸彈客"
+  },
+  "blink arrow of prismatic clones": {
+    "name": "閃現射擊．神秘客"
+  },
+  "mirror arrow of bombarding clones": {
+    "name": "魅影射擊．炸彈客"
+  },
+  "mirror arrow of prismatic clones": {
+    "name": "魅影射擊．神秘客"
+  },
+  "summon chaos golem of hordes": {
+    "name": "召喚混沌魔像．部落"
+  },
+  "summon chaos golem of the maelström": {
+    "name": "召喚混沌魔像．漩渦"
+  },
+  "summon ice golem of hordes": {
+    "name": "召喚寒冰魔像．部落"
+  },
+  "summon ice golem of shattering": {
+    "name": "召喚寒冰魔像．粉碎"
+  },
+  "summon flame golem of hordes": {
+    "name": "召喚烈焰魔像．部落"
+  },
+  "summon flame golem of the meteor": {
+    "name": "召喚烈焰魔像．隕石"
+  },
+  "ice crash of cadence": {
+    "name": "寒冰衝擊．節奏"
+  },
+  "flame dash of incinerating": {
+    "name": "烈焰衝刺．焚燒"
+  },
+  "flame dash of return": {
+    "name": "烈焰衝刺．返回"
+  },
+  "frost blades of katabasis": {
+    "name": "冰霜之刃．降臨"
+  },
+  "wild strike of extremes": {
+    "name": "野性打擊．極致"
+  },
+  "ice trap of hollowness": {
+    "name": "冰凍陷阱．空心"
+  },
+  "galvanic arrow of energy": {
+    "name": "電流箭矢．能量"
+  },
+  "galvanic arrow of surging": {
+    "name": "電流箭矢．波動"
+  },
+  "bladefall of volleys": {
+    "name": "虛空刀雨．齊射"
+  },
+  "bladefall of impaling": {
+    "name": "虛空刀雨．穿刺"
+  },
+  "frost bomb of instability": {
+    "name": "寒霜爆．不穩定"
+  },
+  "frost bomb of forthcoming": {
+    "name": "寒霜爆．來臨"
+  },
+  "summon stone golem of hordes": {
+    "name": "召喚巨石魔像．部落"
+  },
+  "summon stone golem of safeguarding": {
+    "name": "召喚巨石魔像．保安"
+  },
+  "earthquake of amplification": {
+    "name": "震地．增幅"
+  },
+  "contagion of subsiding": {
+    "name": "瘟疫．消退"
+  },
+  "contagion of transference": {
+    "name": "瘟疫．移轉"
+  },
+  "essence drain of desperation": {
+    "name": "靈魂吸取．絕望"
+  },
+  "essence drain of wickedness": {
+    "name": "靈魂吸取．邪惡"
+  },
+  "siege ballista of splintering": {
+    "name": "攻城炮台．碎片"
+  },
+  "sunder of earthbreaking": {
+    "name": "大地震擊．地破"
+  },
+  "vortex of projection": {
+    "name": "漩渦．投射"
+  },
+  "blight of contagion": {
+    "name": "萎滅．瘟疫"
+  },
+  "blight of atrophy": {
+    "name": "萎滅．萎縮"
+  },
+  "blade flurry of incision": {
+    "name": "刀鋒亂舞．切割"
+  },
+  "summon lightning golem of hordes": {
+    "name": "召喚閃電魔像．部落"
+  },
+  "lacerate of butchering": {
+    "name": "破空斬．屠宰"
+  },
+  "lacerate of haemorrhage": {
+    "name": "破空斬．出血"
+  },
+  "scorching ray of immolation": {
+    "name": "熾灼奔流．焚燒"
+  },
+  "blade vortex of the scythe": {
+    "name": "飛刃風暴．鐮刀"
+  },
+  "spectral shield throw of shattering": {
+    "name": "盾靈投擲．粉碎"
+  },
+  "volatile dead of confinement": {
+    "name": "致命之息．禁閉"
+  },
+  "volatile dead of seething": {
+    "name": "致命之息．沸騰"
+  },
+  "cremation of exhuming": {
+    "name": "熔炎送葬．深掘"
+  },
+  "cremation of the volcano": {
+    "name": "熔炎送葬．火山"
+  },
+  "bodyswap of sacrifice": {
+    "name": "屍術傳送．獻祭"
+  },
+  "tectonic slam of cataclysm": {
+    "name": "破體之擊．災變"
+  },
+  "explosive trap of shrapnel": {
+    "name": "爆裂陷阱．彈片"
+  },
+  "explosive trap of magnitude": {
+    "name": "爆裂陷阱．量級"
+  },
+  "lightning spire trap of zapping": {
+    "name": "鋒雷陷阱．殘喘"
+  },
+  "lightning spire trap of overloading": {
+    "name": "鋒雷陷阱．過載"
+  },
+  "seismic trap of swells": {
+    "name": "地裂陷阱．膨脹"
+  },
+  "consecrated path of endurance": {
+    "name": "奉獻之路．持久"
+  },
+  "smite of divine judgement": {
+    "name": "雷鳴重擊．聖判"
+  },
+  "scourge arrow of menace": {
+    "name": "天譴之箭．威脅"
+  },
+  "toxic rain of sporeburst": {
+    "name": "腐蝕毒雨．爆發"
+  },
+  "toxic rain of withering": {
+    "name": "腐蝕毒雨．凋零"
+  },
+  "storm brand of indecision": {
+    "name": "風暴烙印．躊躇"
+  },
+  "shattering steel of ammunition": {
+    "name": "鋼之碎擊．彈藥"
+  },
+  "armageddon brand of volatility": {
+    "name": "末日烙印．揮發"
+  },
+  "armageddon brand of recall": {
+    "name": "末日烙印．呼喚"
+  },
+  "purifying flame of revelations": {
+    "name": "淨化烈焰．啟示"
+  },
+  "soulrend of reaping": {
+    "name": "靈體撕裂．收割"
+  },
+  "soulrend of the spiral": {
+    "name": "靈體撕裂．螺旋"
+  },
+  "bane of condemnation": {
+    "name": "災厄．譴責"
+  },
+  "divine ire of holy lightning": {
+    "name": "聖怒．雷神"
+  },
+  "divine ire of disintegration": {
+    "name": "聖怒．毀滅"
+  },
+  "holy flame totem of ire": {
+    "name": "神聖火舌圖騰．怒火"
+  },
+  "bladestorm of uncertainty": {
+    "name": "旋天劍舞．未知"
+  },
+  "perforate of duality": {
+    "name": "裂地刺穿．雙持"
+  },
+  "perforate of bloodshed": {
+    "name": "裂地刺穿．流血"
+  },
+  "frostblink of wintry blast": {
+    "name": "霜漣之瞬．寒風"
+  },
+  "summon carrion golem of hordes": {
+    "name": "召喚食腐魔像．部落"
+  },
+  "summon carrion golem of scavenging": {
+    "name": "召喚食腐魔像．清洗"
+  },
+  "pyroclast mine of sabotage": {
+    "name": "炎爆新星地雷．破壞"
+  },
+  "icicle mine of fanning": {
+    "name": "冰雹地雷．扇動"
+  },
+  "icicle mine of sabotage": {
+    "name": "冰雹地雷．破壞"
+  },
+  "shrapnel ballista of steel": {
+    "name": "彈片砲塔．鋼鐵"
+  },
+  "stormbind of teleportation": {
+    "name": "風暴術符．傳送"
+  },
+  "rune blast of teleportation": {
+    "name": "符文爆破．傳送"
+  },
+  "kinetic bolt of fragmentation": {
+    "name": "力量穿引．碎片"
+  },
+  "blade blast of unloading": {
+    "name": "劍刃爆破．卸載"
+  },
+  "blade blast of dagger detonation": {
+    "name": "劍刃爆破．匕首爆炸"
+  },
+  "penance brand of dissipation": {
+    "name": "贖罪烙印．消散"
+  },
+  "penance brand of conduction": {
+    "name": "贖罪烙印．傳導"
+  },
+  "earthshatter of fragility": {
+    "name": "碎地重擊．易碎"
+  },
+  "earthshatter of prominence": {
+    "name": "碎地重擊．卓越"
+  },
+  "void sphere of rending": {
+    "name": "虛無玉．分裂"
+  },
+  "crackling lance of branching": {
+    "name": "碎雷電閃．分支"
+  },
+  "crackling lance of disintegration": {
+    "name": "碎雷電閃．毀滅"
+  },
+  "splitting steel of ammunition": {
+    "name": "鋼之裂化．彈藥"
+  },
+  "lancing steel of spraying": {
+    "name": "鋼之突刺．噴射"
+  },
+  "glacial cascade of the fissure": {
+    "name": "冰川之刺．裂隙"
+  },
+  "hexblast of contradiction": {
+    "name": "咒術枯萎．矛盾"
+  },
+  "hexblast of havoc": {
+    "name": "咒術枯萎．浩劫"
+  },
+  "exsanguinate of transmission": {
+    "name": "抽血．傳染"
+  },
+  "rage vortex of berserking": {
+    "name": "盛怒漩渦．狂暴"
+  },
+  "absolution of inspiring": {
+    "name": "赦免．啟發"
+  },
+  "blade trap of greatswords": {
+    "name": "刀鋒陷阱．巨劍"
+  },
+  "blade trap of laceration": {
+    "name": "刀鋒陷阱．撕裂"
+  },
+  "forbidden rite of soul sacrifice": {
+    "name": "禁忌儀式．靈魂獻祭"
+  },
+  "storm rain of the conduit": {
+    "name": "暴風雷雨．導管"
+  },
+  "storm rain of the fence": {
+    "name": "暴風雷雨．籬笆"
+  },
+  "shield crush of the chieftain": {
+    "name": "重盾粉碎．酋長"
+  },
+  "summon reaper of revenants": {
+    "name": "召喚奪魂鐮．亡靈"
+  },
+  "summon reaper of eviscerating": {
+    "name": "召喚奪魂鐮．剜剖"
+  },
+  "boneshatter of complex trauma": {
+    "name": "碎骨．創傷"
+  },
+  "boneshatter of carnage": {
+    "name": "碎骨．屠殺"
+  },
+  "explosive concoction of destruction": {
+    "name": "爆裂物．破壞"
+  },
+  "eye of winter of finality": {
+    "name": "凜冬之眼．終結"
+  },
+  "eye of winter of transience": {
+    "name": "凜冬之眼．轉瞬"
+  },
+  "lightning conduit of the heavens": {
+    "name": "導雷．天堂"
+  },
+  "galvanic field of intensity": {
+    "name": "電光領域．強度"
+  },
+  "frozen legion of rallying": {
+    "name": "戰亂．凍結．號召"
+  },
+  "volcanic fissure of snaking": {
+    "name": "炎火脈動．蜿蜒"
+  },
+  "summon dark effigy": {
+    "name": "召喚黑暗雕像"
+  },
+  "barkskin": {
+    "name": "木質外膚"
+  },
+  "penance mark": {
+    "name": "苦行印記"
+  },
+  "affliction": {
+    "name": "禁咒"
+  },
+  "pacify": {
+    "name": "平靜"
+  },
+  "ravenous": {
+    "name": "貪婪"
+  },
+  "elemental hit of the spectrum": {
+    "name": "元素打擊．光譜"
+  },
+  "ice shot of penetration": {
+    "name": "穿透之冰霜射擊"
+  },
+  "incinerate of expanse": {
+    "name": "燒毀．蔓延"
+  },
+  "incinerate of venting": {
+    "name": "燒毀．通風"
+  },
+  "kinetic blast of clustering": {
+    "name": "聚集之力量爆破"
+  },
+  "summon holy relic of conviction": {
+    "name": "信念之召喚聖物"
+  },
+  "artillery ballista of cross strafe": {
+    "name": "交叉掃射之火砲砲塔"
+  },
+  "artillery ballista of focus fire": {
+    "name": "集火之火砲砲塔"
+  },
+  "poisonous concoction of bouncing": {
+    "name": "彈炸之毒藥"
+  },
+  "tornado of elemental turbulence": {
+    "name": "元素湍流之龍捲風"
+  },
+  "transform into mimic": {
+    "name": "變形成寶箱"
+  },
+  "automation": {
+    "name": "自動化"
+  },
+  "call to arms": {
+    "name": "武裝召喚"
+  },
+  "summon sacred wisps": {
+    "name": "召喚聖潔妖精"
+  },
+  "assume disguise": {
+    "name": "採取偽裝"
+  },
+  "autoexertion": {
+    "name": "自動竭盡"
+  },
+  "crushing fist": {
+    "name": "粉碎之拳"
+  },
+  "divine retribution": {
+    "name": "神聖制裁"
+  },
+  "eviscerate": {
+    "name": "剔骨"
+  },
+  "fury of the awakener": {
+    "name": "喚醒者之怒"
+  },
+  "glacial shield swipe": {
+    "name": "冰川盾擊"
+  },
+  "jet of flame": {
+    "name": "烈焰噴射"
+  },
+  "puncture of shanking": {
+    "name": "腿脛放血"
+  },
+  "summon an image of beidat, archangel of death": {
+    "name": "召喚死亡天使．貝達特的幻影"
+  },
+  "summon an image of k'tash, the hate shepherd": {
+    "name": "召喚仇恨牧人．克塔什的幻影"
+  },
+  "summon demon beast": {
+    "name": "召喚惡魔野獸"
+  },
+  "summon demon harpy": {
+    "name": "召喚惡魔鷹身"
+  },
+  "summon demon imp": {
+    "name": "召喚惡魔小鬼"
+  },
+  "summon pale angel": {
+    "name": "召喚蒼白天使"
+  },
+  "summon pale cherubim": {
+    "name": "召喚蒼白小天使"
+  },
+  "summon pale servitor": {
+    "name": "召喚蒼白僕從"
+  },
+  "summon skeletons of archers": {
+    "name": "召喚骷髏．箭術"
+  },
+  "summon skeletons of mages": {
+    "name": "召喚骷髏．巫術"
+  },
+  "swordstorm": {
+    "name": "劍刃風暴"
+  },
+  "unbound avatar": {
+    "name": "無縛化身"
+  },
+  "vengeful cry": {
+    "name": "復仇之嚎"
+  },
+  "alchemist's boon": {
+    "name": "煉金師恩惠"
+  },
+  "ancestral cry mortar": {
+    "name": "先祖戰吼迫擊砲"
+  },
+  "ancestral spirits": {
+    "name": "先祖之魂"
+  },
+  "ancestral warrior totem": {
+    "name": "先祖戰士圖騰"
+  },
+  "archmage": {
+    "name": "大法師"
+  },
+  "armour breaker": {
+    "name": "護甲碎擊"
+  },
+  "armour piercing rounds": {
+    "name": "穿甲彈藥"
+  },
+  "artillery shot": {
+    "name": "圍城爆發"
+  },
+  "attrition": {
+    "name": "損耗"
+  },
+  "axe slash": {
+    "name": "斧鉞斬"
+  },
+  "barrier invocation": {
+    "name": "屏障祈願"
+  },
+  "basic attack": {
+    "name": "基礎攻擊"
+  },
+  "basic bolt": {
+    "name": "基礎弩箭"
+  },
+  "bind spectre": {
+    "name": "束縛幽魂"
+  },
+  "blasphemy": {
+    "name": "詛咒光環"
+  },
+  "blazing lance": {
+    "name": "熾烈之槍"
+  },
+  "bleeding concoction": {
+    "name": "流血混合物"
+  },
+  "blink": {
+    "name": "閃現"
+  },
+  "bone blast": {
+    "name": "骨之爆破"
+  },
+  "bone cage": {
+    "name": "骨牢"
+  },
+  "bone explosion": {
+    "name": "骸骨爆炸"
+  },
+  "bonebreaker": {
+    "name": "裂骨者"
+  },
+  "bonestorm": {
+    "name": "骸骨風暴"
+  },
+  "bow shot": {
+    "name": "弓箭射擊"
+  },
+  "burning inscription": {
+    "name": "爆燃銘文"
+  },
+  "burningnova": {
+    "name": "燃燒新星"
+  },
+  "burst shot": {
+    "name": "爆發射擊"
+  },
+  "cast on block": {
+    "name": "格擋時施放"
+  },
+  "cast on critical": {
+    "name": "暴擊時施放"
+  },
+  "cast on death": {
+    "name": "死亡時施放"
+  },
+  "cast on dodge": {
+    "name": "閃避時施放"
+  },
+  "cast on freeze": {
+    "name": "冰凍時施放"
+  },
+  "cast on ignite": {
+    "name": "點燃時施放"
+  },
+  "cast on melee kill": {
+    "name": "近戰擊殺時施放"
+  },
+  "cast on melee stun": {
+    "name": "近戰擊暈時施放"
+  },
+  "cast on minion death": {
+    "name": "召喚物死亡時施放"
+  },
+  "cast on shock": {
+    "name": "電擊時施放"
+  },
+  "cast when damage taken": {
+    "name": "受傷時施放"
+  },
+  "cast when stunned": {
+    "name": "暈眩時施放"
+  },
+  "cast while channelling": {
+    "name": "引導時施放"
+  },
+  "chaos bolt": {
+    "name": "混沌弩箭"
+  },
+  "charge infusion": {
+    "name": "充能灌注"
+  },
+  "charged shockwave": {
+    "name": "充能震波"
+  },
+  "charged staff": {
+    "name": "充能長杖"
+  },
+  "claw stab": {
+    "name": "利爪刺擊"
+  },
+  "cluster grenade": {
+    "name": "集束擲彈"
+  },
+  "combat frenzy": {
+    "name": "戰鬥狂怒"
+  },
+  "comet": {
+    "name": "彗星"
+  },
+  "command: {0}": {
+    "name": "命令：{0}"
+  },
+  "consume corpse": {
+    "name": "噬屍"
+  },
+  "crossbow shot": {
+    "name": "十字弓射擊"
+  },
+  "crystal explosion": {
+    "name": "水晶爆炸"
+  },
+  "dagger stab": {
+    "name": "匕首刺擊"
+  },
+  "dark effigy": {
+    "name": "黑暗雕像"
+  },
+  "death storm": {
+    "name": "死寂風暴"
+  },
+  "decompose": {
+    "name": "分解"
+  },
+  "demon form": {
+    "name": "惡魔變身"
+  },
+  "detonating arrow": {
+    "name": "爆破箭矢"
+  },
+  "direct minions": {
+    "name": "直接召喚物"
+  },
+  "electrocuting arrow": {
+    "name": "電極箭矢"
+  },
+  "elemental conflux": {
+    "name": "元素匯流"
+  },
+  "elemental discharge": {
+    "name": "元素解放"
+  },
+  "elemental expression": {
+    "name": "元素表現"
+  },
+  "elemental invocation": {
+    "name": "元素祈願"
+  },
+  "elemental storm": {
+    "name": "元素風暴"
+  },
+  "ember fusillade": {
+    "name": "餘燼齊射"
+  },
+  "emergency reload": {
+    "name": "緊急裝填"
+  },
+  "encase in jade": {
+    "name": "包覆於翠玉中"
+  },
+  "enrage": {
+    "name": "激怒"
+  },
+  "escape shot": {
+    "name": "逃脫之矢"
+  },
+  "explosive demise": {
+    "name": "爆炸之亡"
+  },
+  "explosive grenade": {
+    "name": "爆炸擲彈"
+  },
+  "explosive shot": {
+    "name": "爆炸矢"
+  },
+  "falling thunder": {
+    "name": "崩雷鳴"
+  },
+  "ferocious roar": {
+    "name": "兇猛怒吼"
+  },
+  "fiery death": {
+    "name": "火熱死寂"
+  },
+  "fire bomb": {
+    "name": "火焰炸彈"
+  },
+  "firebolt": {
+    "name": "火彈"
+  },
+  "flail strike": {
+    "name": "鏈錘打擊"
+  },
+  "flash grenade": {
+    "name": "閃光擲彈"
+  },
+  "fragmentation rounds": {
+    "name": "分裂彈藥"
+  },
+  "freezing explosion": {
+    "name": "冷凍爆炸"
+  },
+  "freezing mark": {
+    "name": "冰凍印記"
+  },
+  "freezing nova": {
+    "name": "冰凍新星"
+  },
+  "freezing salvo": {
+    "name": "凍結齊射"
+  },
+  "freezing shards": {
+    "name": "冰凍裂片"
+  },
+  "freezing word": {
+    "name": "冰凍之語"
+  },
+  "frozen locus": {
+    "name": "寒冰蝗蟲"
+  },
+  "fulminating concoction": {
+    "name": "烈性混合物"
+  },
+  "furious slam": {
+    "name": "狂暴重擊"
+  },
+  "gale force": {
+    "name": "颶風之力"
+  },
+  "galvanic shards": {
+    "name": "電能碎片"
+  },
+  "gas arrow": {
+    "name": "毒氣箭矢"
+  },
+  "gas grenade": {
+    "name": "毒氣擲彈"
+  },
+  "gathering storm": {
+    "name": "風暴凝聚"
+  },
+  "generosity": {
+    "name": "和善"
+  },
+  "ghost dance": {
+    "name": "鬼魂之舞"
+  },
+  "glacial bolt": {
+    "name": "冰川弩箭"
+  },
+  "greater lightning bolt": {
+    "name": "雷彈"
+  },
+  "grim feast": {
+    "name": "冷酷之宴"
+  },
+  "hailstorm rounds": {
+    "name": "冰雹彈藥"
+  },
+  "hammer of the gods": {
+    "name": "眾神之錘"
+  },
+  "hand of chayula": {
+    "name": "夏烏拉之手"
+  },
+  "herald of plague": {
+    "name": "瘟疫之捷"
+  },
+  "high velocity rounds": {
+    "name": "高速彈藥"
+  },
+  "hydra familiar": {
+    "name": "九頭蛇近親"
+  },
+  "hypothermia": {
+    "name": "凍傷"
+  },
+  "ice bomb": {
+    "name": "寒冰炸彈"
+  },
+  "ice shard": {
+    "name": "寒冰碎片"
+  },
+  "ice shards": {
+    "name": "寒冰碎片"
+  },
+  "ice strike": {
+    "name": "冰之打擊"
+  },
+  "impale": {
+    "name": "穿刺"
+  },
+  "incendiary shot": {
+    "name": "烈焰射擊"
+  },
+  "incendiary siege cascade": {
+    "name": "烈焰圍城爆發"
+  },
+  "incendiary siege cascade ammo": {
+    "name": "烈焰圍城爆發彈藥"
+  },
+  "into the breach": {
+    "name": "遁入裂痕"
+  },
+  "killing palm": {
+    "name": "摧命之掌"
+  },
+  "life remnants": {
+    "name": "生命痕跡"
+  },
+  "lightning rod": {
+    "name": "雷霆之杖"
+  },
+  "lightning storm": {
+    "name": "閃電風暴"
+  },
+  "lingering illusion": {
+    "name": "殘留幻象"
+  },
+  "living bomb": {
+    "name": "活體炸彈"
+  },
+  "load armour piercing rounds": {
+    "name": "裝填穿甲彈藥"
+  },
+  "load explosive shot": {
+    "name": "裝填爆炸矢"
+  },
+  "load fragmentation rounds": {
+    "name": "裝填分裂彈藥"
+  },
+  "load galvanic shards": {
+    "name": "裝填電能碎片"
+  },
+  "load glacial bolt": {
+    "name": "裝填冰川弩箭"
+  },
+  "load hailstorm rounds": {
+    "name": "裝填冰雹彈藥"
+  },
+  "load high velocity rounds": {
+    "name": "裝填高速彈藥"
+  },
+  "load ice shards": {
+    "name": "裝填寒冰碎片"
+  },
+  "load incendiary shot": {
+    "name": "裝填烈焰矢"
+  },
+  "load permafrost bolts": {
+    "name": "裝填永凍弩箭"
+  },
+  "load plasma blast": {
+    "name": "電漿強擊矢彈藥"
+  },
+  "load rapid shot": {
+    "name": "裝填疾射"
+  },
+  "load shockburst rounds": {
+    "name": "裝填震爆彈藥"
+  },
+  "load siege cascade": {
+    "name": "裝填圍城爆發"
+  },
+  "load stormblast bolts": {
+    "name": "裝填雷暴彈藥"
+  },
+  "mace strike": {
+    "name": "錘之打擊"
+  },
+  "magma barrier": {
+    "name": "熔岩屏障"
+  },
+  "magma spray": {
+    "name": "岩漿噴濺"
+  },
+  "magnetic salvo": {
+    "name": "電磁齊射"
+  },
+  "malice": {
+    "name": "絕滅恨惡"
+  },
+  "mana drain": {
+    "name": "魔力吸取"
+  },
+  "mana flare": {
+    "name": "魔力閃焰"
+  },
+  "mana remnants": {
+    "name": "魔力痕跡"
+  },
+  "mana tempest": {
+    "name": "魔力暴風"
+  },
+  "manifest dancing dervish": {
+    "name": "幻化狂舞德爾維希"
+  },
+  "mantra of destruction": {
+    "name": "毀滅神咒"
+  },
+  "maul": {
+    "name": "重錘"
+  },
+  "meditate": {
+    "name": "冥想"
+  },
+  "molten blast": {
+    "name": "熔火爆破"
+  },
+  "oil grenade": {
+    "name": "燃油擲彈"
+  },
+  "overwhelming presence": {
+    "name": "壓倒性的存在"
+  },
+  "pain offering": {
+    "name": "劇痛獻祭"
+  },
+  "perfect strike": {
+    "name": "完美打擊"
+  },
+  "permafrost bolts": {
+    "name": "永凍弩箭"
+  },
+  "plague burst": {
+    "name": "疫源爆發"
+  },
+  "plague nova": {
+    "name": "疫源新星"
+  },
+  "plasma blast": {
+    "name": "電漿強擊矢"
+  },
+  "poisonburst arrow": {
+    "name": "毒爆箭矢"
+  },
+  "power shot": {
+    "name": "強擊矢"
+  },
+  "profane ritual": {
+    "name": "瀆神祭祀"
+  },
+  "punch": {
+    "name": "正拳"
+  },
+  "quarterstaff strike": {
+    "name": "細杖打擊"
+  },
+  "raging spirits": {
+    "name": "怒炎之靈"
+  },
+  "raise shield": {
+    "name": "展開護盾"
+  },
+  "rampage": {
+    "name": "暴怒"
+  },
+  "rapid assault": {
+    "name": "極速進攻"
+  },
+  "rapid shot": {
+    "name": "疾射"
+  },
+  "reaper's invocation": {
+    "name": "收割者的祈願"
+  },
+  "resonating shield": {
+    "name": "共鳴之盾"
+  },
+  "resonating slam": {
+    "name": "共鳴重擊"
+  },
+  "revive skeleton": {
+    "name": "復甦骷髏"
+  },
+  "ripwire ballista": {
+    "name": "撕裂砲塔"
+  },
+  "ripwire bolt": {
+    "name": "撕裂弩箭"
+  },
+  "rolling slam": {
+    "name": "翻騰重擊"
+  },
+  "sacrifice": {
+    "name": "獻祭"
+  },
+  "scavenged plating": {
+    "name": "拾荒者護板"
+  },
+  "shard scavenger": {
+    "name": "碎片清除者"
+  },
+  "shattering concoction": {
+    "name": "粉碎混合物"
+  },
+  "shattering palm": {
+    "name": "粉碎之掌"
+  },
+  "shield wall": {
+    "name": "盾牆"
+  },
+  "shockburst rounds": {
+    "name": "震爆彈藥"
+  },
+  "shockchain arrow": {
+    "name": "電鍊箭矢"
+  },
+  "shockwave slam": {
+    "name": "震波重擊"
+  },
+  "siege cascade": {
+    "name": "圍城爆發"
+  },
+  "siphoning strike": {
+    "name": "虹吸打擊"
+  },
+  "skeletal arsonist minion": {
+    "name": "骷髏縱火者召喚物"
+  },
+  "skeletal brute minion": {
+    "name": "骷髏巨獸召喚物"
+  },
+  "skeletal cleric minion": {
+    "name": "骷髏牧師召喚物"
+  },
+  "skeletal frost mage minion": {
+    "name": "骷髏霜寒法師召喚物"
+  },
+  "skeletal reaver minion": {
+    "name": "骷髏掠奪者召喚物"
+  },
+  "skeletal sniper minion": {
+    "name": "骷髏狙擊手召喚物"
+  },
+  "skeletal storm mage minion": {
+    "name": "骷髏風暴法師召喚物"
+  },
+  "skeletal warrior minion": {
+    "name": "骷髏戰士召喚物"
+  },
+  "solar orb": {
+    "name": "日耀球"
+  },
+  "sorcery ward": {
+    "name": "巫術護盾"
+  },
+  "soul offering": {
+    "name": "靈魂獻祭"
+  },
+  "soulbreaker": {
+    "name": "破魂者"
+  },
+  "spear stab": {
+    "name": "長鋒刺擊"
+  },
+  "spearfield": {
+    "name": "長鋒之錐"
+  },
+  "spectre: {0}": {
+    "name": "幽魂：{0}"
+  },
+  "spinning inferno": {
+    "name": "旋轉獄火"
+  },
+  "spiral volley": {
+    "name": "螺旋之弦"
+  },
+  "staggering palm": {
+    "name": "撼敵之掌"
+  },
+  "stampede": {
+    "name": "踐踏"
+  },
+  "stomping ground shockwave": {
+    "name": "重踏地面震波"
+  },
+  "storm spear": {
+    "name": "風暴長鋒"
+  },
+  "storm surge": {
+    "name": "風暴洶湧"
+  },
+  "storm wave": {
+    "name": "風暴浪湧"
+  },
+  "stormblast bolts": {
+    "name": "雷暴彈藥"
+  },
+  "stormcaller arrow": {
+    "name": "風暴呼喚箭矢"
+  },
+  "summon ballista totem": {
+    "name": "召喚砲塔圖騰"
+  },
+  "summon companion": {
+    "name": "召喚盟友"
+  },
+  "summon demon magus": {
+    "name": "召喚惡魔瑪格思"
+  },
+  "summon infernal hound": {
+    "name": "召喚獄炎獵犬"
+  },
+  "summon rhoa mount": {
+    "name": "召喚恐喙鳥座騎"
+  },
+  "summon spell totem": {
+    "name": "召喚之術圖騰"
+  },
+  "summon wolf": {
+    "name": "召喚狼"
+  },
+  "supercharged slam": {
+    "name": "超載重擊"
+  },
+  "sword slash": {
+    "name": "劍刃斬"
+  },
+  "tempest bell": {
+    "name": "風暴之鐘"
+  },
+  "tempest flurry": {
+    "name": "暴風亂舞"
+  },
+  "time freeze": {
+    "name": "時間凍結"
+  },
+  "time of need": {
+    "name": "緊急時刻"
+  },
+  "time snap": {
+    "name": "時間短縮"
+  },
+  "toxic growth": {
+    "name": "毒素植栽"
+  },
+  "unleash": {
+    "name": "釋放"
+  },
+  "vaulting impact": {
+    "name": "跳躍衝擊"
+  },
+  "vile effusion": {
+    "name": "惡劣凝聚"
+  },
+  "vine arrow": {
+    "name": "藤蔓箭矢"
+  },
+  "volcano": {
+    "name": "火山"
+  },
+  "voltaic grenade": {
+    "name": "電流擲彈"
+  },
+  "voltaic mark": {
+    "name": "電流印記"
+  },
+  "voltaic nova": {
+    "name": "電流新星"
+  },
+  "wave of frost": {
+    "name": "寒冰波"
+  },
+  "whirling assault": {
+    "name": "迴旋擊"
+  },
+  "whirling slash": {
+    "name": "迴旋斬"
+  },
+  "whirlwind spear": {
+    "name": "旋風長鋒"
+  },
+  "wind blast": {
+    "name": "破風爆裂"
+  },
+  "wind blast (quarterstaff)": {
+    "name": "破風爆裂（細杖）"
+  },
+  "wind blast (unarmed)": {
+    "name": "破風爆裂（空手）"
+  },
+  "wind dancer": {
+    "name": "疾風之舞"
+  },
+  "wind wave": {
+    "name": "疾風之波"
+  },
+  "withering presence": {
+    "name": "凋零光環"
+  }
+}

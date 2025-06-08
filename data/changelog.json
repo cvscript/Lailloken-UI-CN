@@ -1,0 +1,70 @@
+[
+  [
+	["1.50.9", 15009],
+	"v1.50 now out of beta",
+	"item-info: rune dagger fix",
+	"leveling tracker: timer ui fix",
+	"map-info: large font-size fix"
+  ],
+  [
+	["1.50.8", 15008],
+	"mapping tracker: sanctum support",
+	"general: preliminary support for community translations"
+  ],
+  [
+	["1.50.7", 15007],
+	"item-info: jewel-weight fix",
+	"mapping tracker: improved tracking accuracy",
+	"map-info: decimal values fix",
+	"leveling tracker: gem reminder-notes"
+  ],
+  [
+	["1.50.6", 15006],
+	"multi-monitor tweaks/fixes",
+	"clone-frames: auto-toggling in Rogue Harbor"
+  ],
+  [
+	["1.50.5", 15005],
+	"leveling tracker: update e-exp on level up",
+	"lab overlay: improved tracking, added override"
+  ],
+  [
+	["1.50.4.1", 15004.01],
+	"leveling tracker: fixed repeated error-message when closing guide in epilogue"
+  ],
+  [
+	["1.50.4", 15004],
+	"various multi-monitor fixes when playing on secondary monitor",
+	"calibration fixes for older windows versions"
+  ],
+  [
+	["1.50.3", 15003],
+	"3.22 legion jewels",
+	"3.22 amulet anoints",
+	"leveltracker: re-added hint images"
+  ],
+  [
+	["1.50.2.1", 15002.01],
+	"3.22 atlas data",
+	"3.22 gem data"
+  ],
+  [
+	["1.50.2", 15002],
+	"this is not the 3.22 update",
+	"clone-frames: tweaked setup",
+	"betrayal-info: ruthless support",
+	"mapping tracker: added new mechanics",
+	"leveling tracker: support for exile-leveling hints"
+  ],
+  [
+	["1.50.1", 15001],
+	"UPDATER BRICKED: UPDATE MANUALLY",
+	"reworked the updater",
+	"mapping tracker && map-info: heist bugfixes and tweaks",
+	"added essence tooltip: hold omni-key on essences, hover over gear-types"
+  ],
+  [
+    ["1.50.0", 15000],
+	"complete project rework with focus on ui and ux"
+  ]
+]
